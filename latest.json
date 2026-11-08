@@ -1,0 +1,8 @@
+{
+  "version": "1.2.1",
+  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.0/firmware/sketch_mar11a.bin",
+  "md5": "c046c427f5a64ccd52884dca97ffc827",
+  "size": 1288352,
+  "dry_run": true,
+  "notes": "dry-run test: device should download+verify this exact binary but NOT flash"
+}
