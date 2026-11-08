@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.1/firmware/sketch_mar11a.bin",
-  "md5": "3d6cedd30ae5056c78e3c6e64490e281",
-  "size": 1288320,
+  "version": "1.2.2",
+  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.2/firmware/sketch_mar11a.bin",
+  "md5": "a7525186c26f3906fc5ed020df2ebdb2",
+  "size": 1287424,
   "dry_run": false,
-  "notes": "fw 1.2.1: self-update (latest.json) + per-device key for auth-free presence/live"
+  "notes": "fw 1.2.2: presence/live back to auth-required; no-write watchdog un-gated (15min)"
 }
