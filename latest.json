@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.2/firmware/sketch_mar11a.bin",
-  "md5": "a7525186c26f3906fc5ed020df2ebdb2",
-  "size": 1287424,
+  "version": "1.2.3",
+  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.3/firmware/sketch_mar11a.bin",
+  "md5": "e0686a2ec92c3be0109c9942ebf63eb6",
+  "size": 1287568,
   "dry_run": false,
-  "notes": "fw 1.2.2: presence/live back to auth-required; no-write watchdog un-gated (15min)"
+  "notes": "fw 1.2.3: reboot after 10min without WiFi association (prevents needing a manual power cycle)"
 }
