@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
-  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.3/firmware/sketch_mar11a.bin",
-  "md5": "e0686a2ec92c3be0109c9942ebf63eb6",
-  "size": 1287568,
+  "version": "1.2.4",
+  "url": "https://raw.githubusercontent.com/darinjan13/wisenergy-firmware/v1.2.4/firmware/sketch_mar11a.bin",
+  "md5": "3cb7746e6b47a1dca4cc8478db90d266",
+  "size": 1287904,
   "dry_run": false,
-  "notes": "fw 1.2.3: reboot after 10min without WiFi association (prevents needing a manual power cycle)"
+  "notes": "fw 1.2.4: auth canary - recover from a dead token even while usage keeps flowing"
 }
